@@ -1,0 +1,41 @@
+baseurl = "https://www.diablorealtyblog.com/"
+languageCode = "en-us"
+title = "Diablo Realty Blog"
+# Define how many pages appear per site
+paginate = 10
+# Enable comments powered by Disqus by entering your disqus shortname
+disqusShortname = ""
+# Enable google analytics by entering your tracking code
+googleAnalytics = ""
+theme = "hugo-minimalist-theme"
+# Remove this line if you use this theme for a real website.
+# It allows you to preview the theme within the exampleSite folder
+# with the hugo server command
+
+[params]
+    site_author = "Bruce Hahn, MAI, SRA"
+    site_description = "A blog about real estate values in Diablo Country."
+    location = "Walnut Creek, California"
+    # Link custom assets relative to /static
+    avatar = "img/hahn.jpg"
+    header_background = "img/DAB.png"
+    header_title = "Diablo Realty Blog"
+    copyright = "Bruce Hahn - Powered by [Hugo](http://gohugo.io)."
+    custom_css = []
+    custom_js  = []
+
+    # Enable gogle analytics by entering your tracking code
+    google_analytics = ""
+
+[social]
+    # Add your social network accounts to the profile section on the left
+    # by entering your username. The links to your account will be
+    # create automatically.
+    twitter   = ""
+    facebook  = ""
+    linkedin  = "bruce-hahn-28259884/"
+    behance   = ""
+    dribbble  = ""
+    instagram = ""
+    github    = "brucehahn"
+    gplus     = ""

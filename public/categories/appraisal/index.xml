@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Appraisal on Diablo Realty Blog</title>
+    <link>/categories/appraisal/</link>
+    <description>Recent content in Appraisal on Diablo Realty Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 15 Apr 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/categories/appraisal/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Welcome</title>
+      <link>/post/welcome/</link>
+      <pubDate>Mon, 15 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/post/welcome/</guid>
+      <description>Welcome to Diablo Realty Blog. This is a place where we will explore Diablo Country real estate values in the shadow of Mount Diablo!</description>
+    </item>
+    
+  </channel>
+</rss>
