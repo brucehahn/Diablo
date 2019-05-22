@@ -13,7 +13,7 @@ theme = "hugo-minimalist-theme"
 # with the hugo server command
 
 [params]
-    site_author = "Bruce Hahn, MAI, SRA"
+    site_author = "Bruce Hahn, SRA, MAI, CRE"
     site_description = "A blog about real estate values in Diablo Country."
     location = "Walnut Creek, California"
     # Link custom assets relative to /static
